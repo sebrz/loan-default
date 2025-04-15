@@ -172,3 +172,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+notebooks/5_PresentationAnalysis.ipynb
